@@ -60,11 +60,6 @@ Analysis of traffic congestion vs economic performance across cities to identify
 Analysis of user behavior across funnel stages and retention (D7 vs D28) to identify growth opportunities and revenue impact.
 </p>
 
-<h3>📈 Sales Dashboard Analysis (Excel)</h3>
-<p>
-Development of KPI dashboards to evaluate sales performance and support business decision-making.
-</p>
-
 <hr>
 
 <h2>🎯 Goal</h2>
