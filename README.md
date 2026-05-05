@@ -9,7 +9,7 @@
 <h2>🚀 About Me</h2>
 
 <p>
-Lawyer transitioning into Data Analytics with a focus on business decision-making, product analytics, and fintech.
+Lawyer transitioning into Data Analytics with a strong focus on business decision-making, product analytics, and fintech.
 </p>
 
 <p>
@@ -48,7 +48,7 @@ Currently building projects focused on real-world business problems.
   </a>
 </h3>
 <p>
-Analysis of traffic congestion vs economic performance across cities to identify inefficiencies and economic patterns.
+Explores the relationship between traffic congestion and economic performance across cities, identifying inefficiencies and structural patterns.
 </p>
 
 <h3>
@@ -57,7 +57,7 @@ Analysis of traffic congestion vs economic performance across cities to identify
   </a>
 </h3>
 <p>
-Analysis of user behavior across funnel stages and retention (D7 vs D28) to identify growth opportunities and revenue impact.
+Analyzes user behavior across funnel stages and retention (D7 vs D28), identifying growth opportunities and revenue impact.
 </p>
 
 <hr>
@@ -81,5 +81,5 @@ LinkedIn Profile
 <hr>
 
 <p align="center">
-  <i>Building a data portfolio focused on business impact, analytics, and strategic decision-making.</i>
+  <i>Focused on business impact, analytics, and strategic decision-making.</i>
 </p>
