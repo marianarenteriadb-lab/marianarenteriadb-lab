@@ -13,7 +13,7 @@ Lawyer transitioning into Data Analytics with a strong focus on business decisio
 </p>
 
 <p>
-I combine analytical thinking with technical skills to transform data into actionable insights that support business growth.
+I transform data into actionable insights that support growth, optimization, and strategic decisions.
 </p>
 
 <ul>
@@ -21,10 +21,6 @@ I combine analytical thinking with technical skills to transform data into actio
   <li>Funnel optimization & retention</li>
   <li>Data-driven strategy</li>
 </ul>
-
-<p>
-Currently building projects focused on real-world business problems.
-</p>
 
 <hr>
 
@@ -48,7 +44,7 @@ Currently building projects focused on real-world business problems.
   </a>
 </h3>
 <p>
-Explores the relationship between traffic congestion and economic performance across cities, identifying inefficiencies and structural patterns.
+Analyzes the relationship between traffic congestion and economic performance to identify inefficiencies and structural patterns.
 </p>
 
 <h3>
@@ -57,7 +53,7 @@ Explores the relationship between traffic congestion and economic performance ac
   </a>
 </h3>
 <p>
-Analyzes user behavior across funnel stages and retention (D7 vs D28), identifying growth opportunities and measurable revenue impact.
+Evaluates funnel conversion and retention (D7–D28), identifying growth opportunities and measurable revenue impact.
 </p>
 
 <hr>
