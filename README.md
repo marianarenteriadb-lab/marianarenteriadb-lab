@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Irma 👩‍💻</h1>
+<h1 align="center">👩‍💻 Hi, I'm Irma</h1>
 
 <p align="center">
   <b>Data Analyst | SQL • Python • Excel | Business & Product Insights</b>
@@ -14,10 +14,6 @@ Lawyer transitioning into Data Analytics with a focus on business decision-makin
 
 <p>
 I combine analytical thinking with technical skills to transform data into actionable insights that support business growth.
-</p>
-
-<p>
-Interested in:
 </p>
 
 <ul>
@@ -37,7 +33,7 @@ Currently building projects focused on real-world business problems.
 <ul>
   <li>SQL: data extraction, aggregation, funnel analysis</li>
   <li>Python: Pandas, Matplotlib</li>
-  <li>Excel: advanced analysis, dashboards, KPIs</li>
+  <li>Excel: dashboards, KPIs, advanced analysis</li>
   <li>Data Cleaning & Visualization</li>
   <li>Exploratory Data Analysis (EDA)</li>
 </ul>
@@ -46,22 +42,20 @@ Currently building projects focused on real-world business problems.
 
 <h2>📊 Projects</h2>
 
-<ul>
-  <li>
-    <b>🌍 Urban Mobility & Economic Analysis</b><br>
-    Analysis of traffic congestion vs. economic performance across cities.
-  </li>
-  <br>
-  <li>
-    <b>🛒 E-commerce Funnel & Retention Analysis</b><br>
-    Funnel conversion, D7/D28 retention analysis, and growth opportunities.
-  </li>
-  <br>
-  <li>
-    <b>📈 Sales Dashboard Analysis</b><br>
-    KPI tracking, performance analysis, and business insights using Excel.
-  </li>
-</ul>
+<h3>🌍 Urban Mobility & Economic Analysis</h3>
+<p>
+Analysis of traffic congestion vs economic performance across cities to identify inefficiencies and economic patterns.
+</p>
+
+<h3>🛒 E-commerce Funnel & Retention Analysis</h3>
+<p>
+Analysis of user behavior across funnel stages and retention (D7 vs D28) to identify growth opportunities and revenue impact.
+</p>
+
+<h3>📈 Sales Dashboard Analysis (Excel)</h3>
+<p>
+Development of KPI dashboards to evaluate sales performance and support business decision-making.
+</p>
 
 <hr>
 
@@ -75,14 +69,11 @@ Leverage data to solve business problems, optimize performance, and drive growth
 
 <h2>📬 Contact</h2>
 
-<ul>
-  <li>
-    LinkedIn:
-    <a href="https://www.linkedin.com/in/irma-mariana-rentería-díaz-barriga-223a13406">
-      irma-mariana-rentería-díaz-barriga
-    </a>
-  </li>
-</ul>
+<p>
+<a href="https://www.linkedin.com/in/irma-mariana-rentería-díaz-barriga-223a13406/">
+LinkedIn Profile
+</a>
+</p>
 
 <hr>
 
