@@ -42,12 +42,20 @@ Currently building projects focused on real-world business problems.
 
 <h2>📊 Projects</h2>
 
-<h3>🌍 Urban Mobility & Economic Analysis</h3>
+<h3>
+  <a href="https://github.com/marianarenteriadb-lab/Irma-Mariana-Renter-a-D-az-Barriga-">
+    🌍 Urban Mobility & Economic Analysis
+  </a>
+</h3>
 <p>
 Analysis of traffic congestion vs economic performance across cities to identify inefficiencies and economic patterns.
 </p>
 
-<h3>🛒 E-commerce Funnel & Retention Analysis</h3>
+<h3>
+  <a href="https://github.com/marianarenteriadb-lab/ecommerce-funnel-retention-analysis">
+    🛒 E-commerce Funnel & Retention Analysis
+  </a>
+</h3>
 <p>
 Analysis of user behavior across funnel stages and retention (D7 vs D28) to identify growth opportunities and revenue impact.
 </p>
