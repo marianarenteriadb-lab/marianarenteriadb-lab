@@ -57,7 +57,7 @@ Explores the relationship between traffic congestion and economic performance ac
   </a>
 </h3>
 <p>
-Analyzes user behavior across funnel stages and retention (D7 vs D28), identifying growth opportunities and revenue impact.
+Analyzes user behavior across funnel stages and retention (D7 vs D28), identifying growth opportunities and measurable revenue impact.
 </p>
 
 <hr>
